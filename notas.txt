@@ -1,0 +1,4 @@
+ Untracked - Sin Seguimiento
+ADDED - Añadido
+Modified - Modificado 
+Commit - Nueva Marca en la linea de tiempo
