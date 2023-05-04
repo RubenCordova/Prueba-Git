@@ -11,3 +11,5 @@ tecla q salgo del Seguimiento
 git checkout - mas el numero del id del archivo 
 git checkout master - vuelvo a la version original, la rama inicial
 git branch - cambiar de rama 
+git merge - fusionar ambas ramas. de la secundaria a la inicial
+git branch -D footer-component - borrar una rama 
