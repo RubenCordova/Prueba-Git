@@ -3,10 +3,11 @@ ADDED - Añadido
 Modified - Modificado 
 Commit - Nueva Marca en la linea de tiempo
 
-git ADDED index.html o css cuando es una sola
-git added . cuando son varias
+git add index.html o css cuando es una sola
+git add . cuando son varias
 git commit -m con cometario 
 git log para saber cuantas modificaciones hemos hechos
 tecla q salgo del Seguimiento
-git checkout mas el numero del id del archivo 
-git checkout master - vuelvo a la version original 
+git checkout - mas el numero del id del archivo 
+git checkout master - vuelvo a la version original, la rama inicial
+git branch - cambiar de rama 
