@@ -13,3 +13,11 @@ git checkout master - vuelvo a la version original, la rama inicial
 git branch - cambiar de rama 
 git merge - fusionar ambas ramas. de la secundaria a la inicial
 git branch -D footer-component - borrar una rama 
+
+cd y la direcion de la carpeta
+git init 
+git config user.name
+git config user.email
+ git remote add origin y la direccion de github
+ git status 
+ 
